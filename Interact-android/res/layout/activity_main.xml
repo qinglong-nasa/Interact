@@ -1,0 +1,58 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".MainActivity"
+    android:id="@+id/activity_main"
+	layout="@layout/activity_main"
+    android:weightSum="1.0" >
+ 
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FFFFFF"
+        android:textSize="40dp"
+        android:layout_marginTop="80dp"
+        android:text="..." />
+    <ImageButton
+        android:id="@+id/button1"
+        android:layout_width="220dp"
+        android:layout_height="220dp"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:layout_centerInParent="true"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:gravity="center_vertical|center_horizontal"
+        android:background="@drawable/round_button"
+        android:src="@drawable/mic" />
+     
+    <View android:id="@+id/strut"
+        android:layout_width="0dp"
+        android:layout_height="0dp" 
+        android:layout_centerHorizontal="true"/>
+    <ImageButton
+        android:id="@+id/btn_gesture"
+  		android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@id/strut"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:background="@null"
+        android:src="@drawable/degesture" />
+    
+     <ImageButton
+        android:id="@+id/btn_voice"
+  		android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/strut"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:background="@null"
+        android:src="@drawable/voice" />
+     
+</RelativeLayout>
