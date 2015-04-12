@@ -34,7 +34,7 @@ import android.view.MotionEvent;
 public class MainActivity extends ActionBarActivity implements SensorEventListener,OnClickListener {
 	////VARIABLES
 	private float mLastX, mLastY, mLastZ;
-	private boolean mInitialized,Touched = false,voice = true; private SensorManager mSensorManager; private Sensor mAccelerometer; private final float NOISE = (float) 2.0;
+	private boolean mInitialized,Touched = false,voice = true; private SensorManager mSensorManager; private Sensor mAccelerometer; private final float NOISE = (float) 1.5;
 	boolean isFirstRead = true,GestureStarted = false;
 	Networker NetworkTask; 
 	protected static final int REQUEST_OK = 1;
