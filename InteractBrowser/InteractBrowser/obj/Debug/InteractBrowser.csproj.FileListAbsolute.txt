@@ -1,0 +1,9 @@
+C:\Users\el-mostafa.org\Desktop\QingLong\InteractBrowser\InteractBrowser\obj\Debug\InteractBrowser.MainForm.resources
+C:\Users\el-mostafa.org\Desktop\QingLong\InteractBrowser\InteractBrowser\obj\Debug\InteractBrowser.Properties.Resources.resources
+C:\Users\el-mostafa.org\Desktop\QingLong\InteractBrowser\InteractBrowser\obj\Debug\InteractBrowser.csproj.GenerateResource.Cache
+C:\Users\el-mostafa.org\Desktop\QingLong\InteractBrowser\InteractBrowser\obj\Debug\InteractBrowser.pdb
+C:\Users\el-mostafa.org\Desktop\QingLong\InteractBrowser\InteractBrowser\bin\Debug\InteractBrowser.exe.config
+C:\Users\el-mostafa.org\Desktop\QingLong\InteractBrowser\InteractBrowser\bin\Debug\InteractBrowser.exe
+C:\Users\el-mostafa.org\Desktop\QingLong\InteractBrowser\InteractBrowser\bin\Debug\InteractBrowser.pdb
+C:\Users\el-mostafa.org\Desktop\QingLong\InteractBrowser\InteractBrowser\obj\Debug\InteractBrowser.csprojResolveAssemblyReference.cache
+C:\Users\el-mostafa.org\Desktop\QingLong\InteractBrowser\InteractBrowser\obj\Debug\InteractBrowser.exe
