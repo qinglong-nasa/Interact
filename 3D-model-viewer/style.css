@@ -1,0 +1,31 @@
+P  {}
+
+H1  {}
+
+H2  {}
+
+H3  {}
+
+A  {
+	color : #5580FF;
+	text-decoration : underline;
+}
+
+A:Visited  {
+	color : #5580FF;
+	text-decoration : underline;
+}
+
+A:Active  {
+	color : #5580FF;
+	text-decoration : underline;
+}
+
+A:Hover  {
+	color : #FFFFFF;
+	text-decoration : none;
+	background : #0F1850;
+}
+
+BODY  {}
+

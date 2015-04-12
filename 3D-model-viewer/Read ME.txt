@@ -1,0 +1,12 @@
+Qing Long Team - Nasa Space Apps Cairo
+
+to use this part of project:
+
+downlaod three.js library from this link: https://github.com/mrdoob/three.js/
+
+change the files as shown in this file directory or add them at the same place if not exists
+
+change all directories in the changed files to your path
+
+download node js server and open the server from command prompt in order to be able to use the sended data through network
+
